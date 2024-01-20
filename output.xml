@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?><fdo_objects><document url="" di="0" bi="-1" date="2024-01-19">
+<facts>
+ 
+ <Person FactID="0" LeadID="0" FieldsInfo="n0;" pos="158" len="14" sn="1" fw="11" lw="12">
+     <Name_Surname val="БОЧАРОВ" pos="158" len="14"/>\
+     <Name_FirstName val="АНДРЕЙ"/><Name_SurnameIsDictionary val="1"/>
+ 
+ </Person>
+ 
+ <Place FactID="1" LeadID="1" FieldsInfo="n0;" pos="299" len="5" sn="3" fw="1" lw="1">
+     <Name val="БК-13" pos="299" len="5"/></Place>
+ 
+ <Person FactID="2" LeadID="2" FieldsInfo="n0;" pos="853" len="16" sn="8" fw="0" lw="1">
+    <Name_Surname val="РАСПУТИН" pos="853" len="16"/><Name_FirstName val="ВАСИЛИЙ"/>
+
+
+    
+<Name_SurnameIsDictionary val="1"/></Person></facts><Leads><Lead text="&lt;l&gt;&lt;h t=&quot;ya&quot; di=&quot;0&quot; u=&quot;&quot;&gt;&lt;d&gt;2024-01-19 18:25&lt;/d&gt;&lt;s&gt;file&lt;/s&gt;&lt;/h&gt;&lt;b&gt;&lt;s&gt;В церемонии пуска внутрипоселкового газопровода принял участие и губернатор Волгоградской области &lt;N n0=&quot;&quot; lemma=&quot;&quot;&gt;Андрей Бочаров&lt;/N&gt;, обрисовавший перспективы газификации региона.&lt;/s&gt;&lt;/b&gt;&lt;/l&gt;" id="0" pos="60" len="159"/><Lead text="&lt;l&gt;&lt;h t=&quot;ya&quot; di=&quot;0&quot; u=&quot;&quot;&gt;&lt;d&gt;2024-01-19 18:25&lt;/d&gt;&lt;s&gt;file&lt;/s&gt;&lt;/h&gt;&lt;b&gt;&lt;s&gt;Темпы &lt;N n0=&quot;&quot; lemma=&quot;бк-13&quot;&gt;бк-13&lt;/N&gt; набраны очень серьезные.&lt;/s&gt;&lt;/b&gt;&lt;/l&gt;" id="1" pos="293" len="36"/><Lead text="&lt;l&gt;&lt;h t=&quot;ya&quot; di=&quot;0&quot; u=&quot;&quot;&gt;&lt;d&gt;2024-01-19 18:25&lt;/d&gt;&lt;s&gt;file&lt;/s&gt;&lt;/h&gt;&lt;b&gt;&lt;s&gt;&lt;N n0=&quot;&quot; lemma=&quot;&quot;&gt;Распутин Василий&lt;/N&gt; Всего предстоит подвести голубое топливо к 14,6 тыс. домовладений, где проживают почти 40 тыс. человек.&lt;/s&gt;&lt;/b&gt;&lt;/l&gt;" id="2" pos="853" len="120"/></Leads></document>
+</fdo_objects>

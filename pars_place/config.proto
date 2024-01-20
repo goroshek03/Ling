@@ -1,0 +1,26 @@
+encoding "utf8";
+
+TTextMinerConfig {
+  Dictionary = "dic.gzt";
+
+  PrettyOutput = "debug.html";
+
+  Input = {
+    File = "test.txt";
+    Type = dpl;
+  }
+
+  Articles = [
+    { Name = "упоминаются_достопримечательности" }
+  ]
+
+  Facts = [
+    { Name = "AttractionsFact" }
+  ]
+
+  Output = {
+    Format = json;
+    File = "output_9.json";
+  }
+}
+
